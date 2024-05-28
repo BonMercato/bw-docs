@@ -1,0 +1,9 @@
+[submodule "themes/archie"]
+	path = themes/archie
+	url = https://github.com/athul/archie.git
+[submodule "themes/hugo-changelog-theme"]
+	path = themes/hugo-changelog-theme
+	url = git@github.com:jsnjack/hugo-changelog-theme.git
+[submodule "themes/papermod"]
+	path = themes/papermod
+	url = git@github.com:adityatelange/hugo-PaperMod.git
